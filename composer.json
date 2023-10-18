@@ -34,13 +34,13 @@
     }
   },
   "require": {
-    "illuminate/console": "~8.82",
-    "illuminate/filesystem": "~8.82",
-    "ramsey/uuid": "^4.2.3",
-    "symfony/process": "^5.4"
+    "illuminate/console": "~9.52",
+    "illuminate/filesystem": "~9.52",
+    "ramsey/uuid": "^4.7.4",
+    "symfony/process": "^6.0"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "~3.6.2"
+    "squizlabs/php_codesniffer": "^3.5"
   },
   "scripts": {
     "test": [
